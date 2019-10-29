@@ -1,0 +1,10 @@
+div {
+  display: flex;
+  justify-content: center;
+  -ms-align-items: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-image: radial-gradient(circle, rgba(19, 243, 255, .15), #b85ee5);
+  font-size: 42px;
+}
